@@ -1,0 +1,124 @@
+/* Navigation Bar Formatting */
+.navigationbar{
+  background-color: #193498;
+  color: white;
+  font-family: "Oswald";
+  font-size: 150%;
+  text-align: center;
+}
+.title-format {
+  font-family: 'Zilla Slab Highlight', cursive;
+  font-size: 200%;
+  padding: 3rem 3rem;
+}
+.achievments {
+  background-color: yellow;
+}
+.chef-curry{
+  position: relative;
+  top: 10px;
+  left: 100px;
+  margin: auto;
+}
+
+/* History Page Formatting */
+
+.historys{
+  text-align: center;
+  font-size: 100%;
+  line-height: 2;
+  color: black;
+  font-family: 'Readex Pro', cursive;
+}
+#history{
+  padding-top: 50px;
+  background-color: #193498;
+}
+
+#history h1{
+  text-align: center;
+  font-size: 3rem;
+  font-family: 'Anton';
+  color: black;
+}
+
+#teams h2{
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: 'Zilla Slab Highlight', cursive;
+  padding-top: 50px;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+#teams{
+  background-color: yellow;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  line-height: 1.5;
+  font-family: 'Zilla Slab Highlight', cursive;
+}
+
+.team-photo {
+  padding-top: 50px;
+}
+
+.carousel-item{
+  background-color: yellow ;
+  color: black;
+}
+
+#jersey h1{
+  font-family: 'Anton';
+}
+
+#jersey{
+  text-align: center;
+  background-color: #193498 ;
+  padding-top: 50px;
+  font-family: 'Readex Pro';
+  font-weight: bold;
+  font-size: 150%;
+  color: black;
+}
+
+.cost{
+  margin-top: 20px;
+}
+
+.card-align{
+  padding-top: 20px;
+}
+
+#follow-warriors{
+  text-align: center;
+  color: black;
+  padding-top: 100px;
+  background-color: yellow;
+  font-family: 'Zilla Slab Highlight', cursive;
+}
+
+.btn-pad{
+  margin-top: 30px;
+  margin-right: 30px;
+  font-family: 'Readex Pro';
+  margin-bottom: 100px;
+}
+
+#social-media{
+  background-color: white;
+  text-align: center;
+}
+
+.media-pad{
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+.a-pad{
+  padding-top: 100px;
+}
